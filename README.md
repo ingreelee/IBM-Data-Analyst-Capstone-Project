@@ -1,4 +1,4 @@
-# testrepo
+# IBM Data Analyst Capstone Project
 
 ### Editing the file
 
